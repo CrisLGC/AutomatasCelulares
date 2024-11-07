@@ -1,0 +1,2 @@
+# AutomatasCelulares
+Triángulo de Sierpinski
